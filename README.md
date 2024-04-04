@@ -1,2 +1,2 @@
 - // 👋 Hi, I’m @JarJarJames
-- // Android + iOS Development
+- // iOS Development
