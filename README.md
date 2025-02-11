@@ -1,2 +1,3 @@
 - // 👋 Hi, I’m @JarJarJames
-- // iOS Development
+- // My 🐐ed stack
+- // iOS, Android, KMP, KTOR, Unreal Engine 5.5
