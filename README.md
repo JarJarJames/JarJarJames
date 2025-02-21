@@ -1,4 +1,4 @@
 - // 👋 Hi, I’m @JarJarJames
 - // Senior iOS Engineer @ Blake Technologies and Parkspass Utah
-- // My 🐐ed stack
+- // My stack
 - // iOS, Android, KMP, KTOR, Unreal Engine 5.5
